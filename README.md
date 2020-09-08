@@ -1,9 +1,5 @@
 # ✨ Arcana
 
-~~Secret~~ Scripts and Notes
+~~Secret~~  I shouldn't forget but I do. 
 
-
-## Contents
-
-- Git
-- GCP CloudShell
+A compilation of ~~hopefully best~~ practices, scripts, and to-do's. Feel free to comment/make PRs to improve this repository.
